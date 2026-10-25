@@ -1,0 +1,9 @@
+seed=42
+items=160
+users=1800
+max_train=650
+context=6
+dim=8
+heads=2
+sft_epochs=2
+rl_steps=150

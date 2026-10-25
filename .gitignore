@@ -1,0 +1,15 @@
+# Local downloaded datasets and build artifacts
+/data/
+/target/
+/build/
+*.zip
+*.class
+*.jar
+**/*.bin
+.idea/
+*.iml
+
+# Synthetic results are never used as scientific evidence
+/outputs/demo/
+
+# The reproducible text outputs in outputs/kion-medium/ are intentionally tracked
